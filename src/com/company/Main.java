@@ -17,10 +17,6 @@ public class Main {
 
         result = result_fraction - result_right;
 
-        //result = Math.pow(b, -2);
-
-
-
 
         System.out.println(result);
         return result;
